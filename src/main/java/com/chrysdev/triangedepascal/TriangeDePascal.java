@@ -59,6 +59,7 @@ public class TriangeDePascal {
             }
             System.out.println(); //A la ligne pour passer a la ligne suivante.
         }
+        System.out.println("C'est bon, votre triangle a ete affiche");
     }
 }
 //PS: ca a vraiment ete une course contre la montre pour finir ce devoir mais je suis tres content du resultat :)
